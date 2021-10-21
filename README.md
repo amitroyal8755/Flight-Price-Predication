@@ -12,7 +12,7 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://fpp-amit.herokuapp.com/)
+Link: [https://fpp-amit.herokuapp.com/](https://fpp-amit.herokuapp.com/)
 
 [![](https://i.imgur.com/R1g2wvC.png)](https://fpp-amit.herokuapp.com/)
 
