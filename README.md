@@ -14,7 +14,7 @@
 ## Demo
 Link: [https://fpp-amit.herokuapp.com/](https://fpp-amit.herokuapp.com/)
 
-[![](https://imgur.com/QzsHaNH)](https://fpp-amit.herokuapp.com/)
+[![](https://imgur.com/QzsHaNH.png)](https://fpp-amit.herokuapp.com/)
 
 [![](https://i.imgur.com/p0aeL6c.png)](https://fpp-amit.herokuapp.com/)
 
